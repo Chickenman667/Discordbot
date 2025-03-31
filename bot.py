@@ -57,4 +57,4 @@ async def command_error(ctx, error):
         await ctx.send("You don't have permission to execute this command!")
 
 # Run the bot
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTM0ODMzNTc2MDk5NDA3NDYyNA.GRJNni.zIleh1UWgJzJFuWtMsfZ10CeNSDOaWQaO8VLp4')
