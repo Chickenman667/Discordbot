@@ -1,1 +1,4 @@
-IDK WHAT TO PUT
+discord.py==2.3.2
+requests==2.26.0        # If you're using requests for HTTP calls
+asyncio==3.4.3          # For async operations (though asyncio is built into Python 3.7+)
+
